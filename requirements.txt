@@ -1,3 +1,6 @@
-Flask
-gunicorn
+flask
+flask-cors
+requests
+pyjwt
+pycryptodome
 urllib3
